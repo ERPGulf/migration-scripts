@@ -1,9 +1,4 @@
-Here’s a ready-to-paste README.md designed for GitHub — clean, formatted, and developer-friendly 👇
-
-⸻
-
-
-ERPNext Migration Scripts
+ERPNext Migration Scripts from ERPGulf
 
 ###Automated migration utilities for ERPNext from legacy ERPs — SAP, Oracle, Dynamics, Tally, and more
 
