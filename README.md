@@ -25,7 +25,7 @@ Each script is tested in live customer projects and continuously improved for ac
 | **SAP** | CSV, XLSX, OData | Imports GL accounts, Items, Customers, and Balances |
 | **Oracle E-Business Suite** | SQL dumps, CSV | Supports COA mapping and vendor/customer migration |
 | **Microsoft Dynamics (AX/365)** | API, CSV | Handles inventory, AR/AP, and financials |
-| **Tally** | XML, JSON, CSV | Migrates ledgers, vouchers, and stock entries |
+| **Tally and Odoo**  | XML, JSON, CSV | Migrates ledgers, vouchers, and stock entries |
 | **Custom Systems** | API, CSV | Mappings configurable via JSON/YAML schemas |
 
 ---
@@ -154,9 +154,4 @@ ERPGulf Migration Team
 📧 support@erpgulf.com
 📦 GitHub: github.com/erpgulf
 
-⸻
-
-“Helping businesses migrate to ERPNext — faster, safer, and smarter.”
-
----
 
